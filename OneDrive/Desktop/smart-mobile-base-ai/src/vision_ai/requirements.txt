@@ -1,0 +1,4 @@
+tflite-runtime
+opencv-python
+pyserial
+numpy
